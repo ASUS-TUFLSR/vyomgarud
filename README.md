@@ -57,25 +57,8 @@ This project builds to a `dist/` folder. Deploy to Vercel, Netlify, or GitHub Pa
 - Accessibility: contrast is high, focus-visible preserved (you can add improved focus styles as needed).
 
 
-## Where to improve / Bonus ideas
+## Where to improve / Bonus ideas for Future Improvements
 - Add a CMS or Netlify Forms for real contact handling.
 - Add animation sequencing and scroll reveals.
 - Add more pages (Datasheets, Case Studies) and protected admin area.
 - Replace demo SVG with product renders or hero video.
-
-
-## Commit / Submission checklist
-- Commit frequently, e.g. `feat(layout): hero and nav` etc.
-- Provide screenshots (`screenshots/`), GIF of hero animation, and a README with design notes (this README).
-- Optional: deploy to Vercel and paste the live URL.
-
-
---- NOTES.txt ---
-Suggested commit roadmap (48h):
-- Day 1: initial repo + layout + hero + about + products (commit: feat: base layout + hero)
-- Day 2: responsiveness + framer-motion polish + contact form + README + deploy (commit: feat: responsiveness + polish)
-
-
-
-
-// End of project archive
